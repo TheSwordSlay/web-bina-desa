@@ -18,6 +18,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/halaman-satu', function () {
+    return view('halaman_baru');
+});
+
+Route::get('/halaman-fiqri', function () {
+    return view('halaman_fiqri');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

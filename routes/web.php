@@ -18,8 +18,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/halaman_agi', function () {
-    return view('hal_agi');
+Route::get('/home', function () {
+    return view('home');
 });
 
 Route::get('/dashboard', function () {

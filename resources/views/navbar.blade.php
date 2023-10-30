@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-primary-subtle">
+<nav class="navbar navbar-expand-lg bg-primary-subtle shadow">
         <div class="container-fluid">
             <a class="navbar-brand p-0 m-0 fs-1 fw-bold" href="#">
                 <img src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">

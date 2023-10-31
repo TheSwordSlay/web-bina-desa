@@ -26,6 +26,10 @@ Route::get('/halaman-fiqri', function () {
     return view('halaman_fiqri');
 });
 
+Route::get('/matapencaharian', function () {
+    return view('matapencaharian');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

@@ -1,0 +1,40 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-1 {
+    width: 100%;
+    border: 5px solid #dedede;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 0px black;
+}
+
+.carousel-2 {
+    width: 100%;
+    border: 2px solid #dedede;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 0px black;
+}
+
+.col-sm-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    border: none;
+}
+
+.card-1, .card-2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.col-md-8 {
+    padding: 10px;
+}

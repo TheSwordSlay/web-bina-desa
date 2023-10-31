@@ -1,0 +1,20 @@
+.home {
+    width: 100%;
+    min-height: 100vh;
+    background: url("../img/slideshow.jpg") rgba(0,0,0,1);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.home .container-fluid {
+    background: rgba(0,0,0,0.3);
+    min-height: 100vh;
+    padding: 15px;
+    background-attachment: fixed;
+}
+
+iframe {
+    min-height: 85vh;
+}

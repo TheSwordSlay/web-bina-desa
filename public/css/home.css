@@ -18,3 +18,17 @@
 iframe {
     min-height: 85vh;
 }
+
+.penjelasan{
+    min-height: 85vh;
+}
+
+.paralax {
+    background: url("../img/berita.jpeg");
+    width: 50%;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

@@ -46,11 +46,11 @@
     <!-- penjelasan desa  -->
     <section class="penjelasan  bg-primary-subtle">
         <div class="container-fluid">
-            <div class="row">
+            <div class="row text-center justify-content-center align-items-center">
                 <div class="col-md-6">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquid enim, culpa quod quibusdam ipsum iure autem, doloribus debitis quidem quasi odit tenetur deserunt odio sed. Quia quis error unde cumque officiis temporibus illo molestiae recusandae impedit laudantium vero deleniti eum, doloremque dignissimos voluptates esse, cum hic modi nam quidem. A atque reprehenderit maxime magnam distinctio cumque minus necessitatibus autem magni nam, suscipit ratione perspiciatis praesentium. Dicta, voluptates accusantium optio error dolor voluptatem minima officiis totam suscipit officia aut eligendi repellat enim debitis praesentium iure corrupti nostrum quas labore fugiat cumque quidem veritatis. Culpa exercitationem delectus reiciendis. Dolore similique officiis pariatur temporibus minima? Qui quos quaerat fuga minima animi, labore quam ab distinctio, soluta eos ipsam! Quis recusandae, accusantium at nesciunt amet, laborum et iusto soluta in laudantium ex praesentium cum? Consectetur, inventore accusantium autem asperiores consequuntur corrupti qui laboriosam nostrum cum ratione, magni harum nihil eligendi soluta tempore cupiditate in ducimus distinctio debitis. Voluptates dicta modi nemo, facilis tempore blanditiis ex ipsum cumque sapiente illo, ipsa, fuga quos enim repudiandae eos eligendi dolorem impedit consequatur asperiores voluptatem obcaecati. Fugiat distinctio sed, veritatis mollitia ducimus natus laborum quibusdam nisi inventore error quidem tempore laudantium, pariatur neque aperiam cumque ipsa repellendus.
                 </div>
-                <div class="paralax col-md-6 mt-5 mb-5 rounded-start-5"></div>
+                <div class="paralax col-md-6 mt-5 mb-5 rounded-5"></div>
             </div>
         </div>
     </section>
@@ -58,7 +58,7 @@
 
 
     <!-- news -->
-    <div class="container text-center">
+    <div class="container text-center mb-5">
         <div class="mt-5 pb-4">
             <h1>Berita Terkini</h1>
         </div>
@@ -194,6 +194,39 @@
         </div>
     </div>
     <!-- news end -->
+
+    <!-- footer  -->
+    <footer class="bg-primary text-light">
+        <div class="container">
+            <div class="row text-center pt-3">
+                <div class="col-4">
+                    <div class="logo">
+                        <div class="logo-detail">
+                            <p>Lorem ipsum dolor sit amet.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+                <div class="col-4">
+                    <p>Hubungi Kami</p>
+                    <div class="logo-media">
+                        <a href="https://www.facebook.com/bemilkomunsri"><i class='bx bxl-facebook-square'></i></a>
+                        <a href="https://www.linkedin.com/company/bemkmfasilkomunsri/mycompany/"><i class='bx bxl-linkedin-square'></i></a>
+                        <a href="https://www.instagram.com/bemilkomunsri/"><i class='bx bxl-instagram'></i></a>
+                        <a href=""><img src="assets/image/LINE_logo.svg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col text-center fs-5 fw-medium">
+                    <p>© BEM KM FASILKOM UNSRI 2023 | Kabinet Cakra Baswara</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer end  -->
 
     <!-- bootstrap.js  -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>

@@ -25,7 +25,7 @@ iframe {
 
 .paralax {
     background: url("../img/berita.jpeg");
-    width: 50%;
+    width: 600px;
     height: 450px;
     background-size: cover;
     background-position: center;

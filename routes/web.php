@@ -22,6 +22,10 @@ Route::get('/matapencaharian', function () {
     return view('matapencaharian');
 });
 
+Route::get('/perangkat_desa', function () {
+    return view('perangkatDesa');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

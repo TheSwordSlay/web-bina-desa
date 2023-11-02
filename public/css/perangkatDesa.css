@@ -1,0 +1,29 @@
+.custom-carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-inner {
+    width: 390px;
+    height: 490px;
+    max-width: none;
+    margin: 85px 0px 35px;
+    box-shadow: 5px .1px 25px black;
+    border-radius: 25px;
+}
+
+.carousel-inner .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    /* opacity: .1; */
+}
+
+.carousel-inner .carousel-item .carousel-caption {
+    display: block;
+    background-color: rgba(0, 0, 0, .4);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: 1px solid #fff;
+}

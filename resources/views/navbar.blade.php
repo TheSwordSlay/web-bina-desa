@@ -27,3 +27,13 @@
             </div>
         </div>
     </nav>
+
+    <style>
+        .navbar-nav .nav-link {
+            font-weight: bold;
+        }
+
+        .navbar-nav .nav-link:hover {
+            text-decoration: underline;
+        }
+    </style>

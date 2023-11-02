@@ -12,27 +12,32 @@
     <div class="container text-center mt-5">
         <div class="row">
             <div class="col-sm-8">
-                <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                        <img src="img/tenun.jpg" class="d-block w-100" alt="tenun">
+                <div class="mata-pencaharian">
+                    <h1>Mata Pencaharian</h1>
+                    <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                            <img src="img/tenun.jpg" class="d-block w-100" alt="tenun">
+                            </div>
+                            <div class="carousel-item">
+                            <img src="img/pandaibesi.jpg" class="d-block w-100" alt="pandai besi">
+                            </div>
+                            <div class="carousel-item">
+                            <img src="img/beternak.jpg" class="d-block w-100" alt="beternak">
+                            </div>
                         </div>
-                        <div class="carousel-item">
-                        <img src="img/pandaibesi.jpg" class="d-block w-100" alt="pandai besi">
-                        </div>
-                        <div class="carousel-item">
-                        <img src="img/beternak.jpg" class="d-block w-100" alt="beternak">
-                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
                 </div>
+
+                <hr>
 
                 <div class="card-1">
                     <div class="row g-0">
@@ -49,6 +54,8 @@
                     </div>
                 </div>
 
+                <hr>
+
                 <div class="card-2">
                     <div class="row g-0">
                         <div class="col-md-4">
@@ -64,6 +71,8 @@
                     </div>
                 </div>
 
+                <hr>
+
                 <div class="card-3">
                     <div class="row g-0">
                         <div class="col-md-4">
@@ -78,6 +87,8 @@
                         </div>
                     </div>
                 </div>
+
+                <hr>
             </div>
 
             <div class="col-sm-4">

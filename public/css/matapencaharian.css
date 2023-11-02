@@ -10,15 +10,17 @@
     box-shadow: 2px 2px 5px 0px black;
 }
 
-
-
 .card-1, .card-2, .card-3 {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .col-md-8 {
     padding: 10px;
+}
+
+.mata-pencaharian {
+    margin-bottom: 40px;
 }
 
 .col-sm-4 {

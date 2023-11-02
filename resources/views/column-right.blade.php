@@ -1,4 +1,5 @@
-<div class="carousel-1" style="width: 65%;">
+<div class="perangkat-desa" style="width: 65%;">
+    <h2>Perangkat Desa</h2>
     <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -68,4 +69,7 @@
         </button>
     </div>
 </div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31865.21375893306!2d104.63349034372804!3d-3.312636442131902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3bc0014382d4f9%3A0x9af087d7116ceb2a!2sTj.%20Laut%2C%20Kec.%20Tj.%20Batu%2C%20Kabupaten%20Ogan%20Ilir%2C%20Sumatera%20Selatan!5e0!3m2!1sid!2sid!4v1698684112349!5m2!1sid!2sid" width="250" height="250" style="border:1px solid black; margin-top: 50px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="lokasi" style="margin-top: 50px; margin-bottom: 20px;">
+    <h2>Lokasi</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31865.21375893306!2d104.63349034372804!3d-3.312636442131902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3bc0014382d4f9%3A0x9af087d7116ceb2a!2sTj.%20Laut%2C%20Kec.%20Tj.%20Batu%2C%20Kabupaten%20Ogan%20Ilir%2C%20Sumatera%20Selatan!5e0!3m2!1sid!2sid!4v1698684112349!5m2!1sid!2sid" width="250" height="250" style="border:1px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

@@ -12,16 +12,16 @@
     <div class="container text-center mt-5">
         <div class="row">
             <div class="col-sm-8">
-                <div id="carouselExampleRide" class="carousel-1 slide" data-bs-ride="true">
+                <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="img/tenun.jpg" class="d-block w-100" alt="...">
+                        <img src="img/tenun.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="img/tenun.jpg" class="d-block w-100" alt="...">
+                        <img src="img/tenun.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="img/tenun.jpg" class="d-block w-100" alt="...">
+                        <img src="img/tenun.jpg" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
@@ -66,8 +66,7 @@
             </div>
 
             <div class="col-sm-4">
-                
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31865.21375893306!2d104.63349034372804!3d-3.312636442131902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3bc0014382d4f9%3A0x9af087d7116ceb2a!2sTj.%20Laut%2C%20Kec.%20Tj.%20Batu%2C%20Kabupaten%20Ogan%20Ilir%2C%20Sumatera%20Selatan!5e0!3m2!1sid!2sid!4v1698684112349!5m2!1sid!2sid" width="250" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                @include('column-right')
             </div>
         </div>
     </div>

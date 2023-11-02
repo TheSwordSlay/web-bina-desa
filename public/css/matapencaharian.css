@@ -4,31 +4,13 @@
     box-sizing: border-box;
 }
 
-.carousel-1 {
-    width: 100%;
-    border: 5px solid #dedede;
-    border-radius: 20px;
-    overflow: hidden;
-    box-shadow: 2px 2px 5px 0px black;
-}
-
-.carousel-2 {
-    width: 100%;
-    border: 2px solid #dedede;
+.carousel {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 2px 2px 5px 0px black;
 }
 
-.col-sm-4 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 
-.card {
-    border: none;
-}
 
 .card-1, .card-2 {
     margin-top: 50px;
@@ -39,6 +21,13 @@
     padding: 10px;
 }
 
-iframe {
-    margin-top: 50px;
+.col-sm-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+.carousel-caption {
+    text-shadow: 2px 2px 5px black;
+}
+

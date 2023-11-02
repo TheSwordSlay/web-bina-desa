@@ -1,7 +1,7 @@
 .home {
     width: 100%;
     min-height: 100vh;
-    background: url("../img/slideshow.jpg") rgba(0,0,0,1);
+    background: url("../img/bg1.jpg") rgba(0,0,0,1);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@ iframe {
 }
 
 .paralax {
-    background: url("../img/berita.jpeg");
+    background: url("../img/bg2.jpg");
     width: 600px;
     height: 450px;
     background-size: cover;

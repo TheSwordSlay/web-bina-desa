@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-dark shadow-lg custom-bg-color sticky-top" style="background-color: #9EDDFF;">
+<nav class="navbar navbar-expand-lg navbar-dark shadow-lg bg-primary fixed-top">
         <div class="container">
-            <a class="navbar-brand p-0 m-0 fs-3 fw-medium text-dark" href="#">
+            <a class="navbar-brand p-0 m-0 fs-3 fw-medium" href="#">
                 Tanjung Laut
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,31 +9,21 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item ps-3 pe-3 ">
-                        <a class="nav-link {{ Request::is('home') ? 'active' : '' }} text-dark" aria-current="page" href="/home">Home</a>
+                        <a class="nav-link {{ Request::is('home') ? 'active' : '' }}" aria-current="page" href="/home">Home</a>
                     </li>
                     <li class="nav-item ps-3 pe-3 ">
-                        <a class="nav-link {{ Request::is('perangkat_desa') ? 'active' : '' }} text-dark" href="/perangkat_desa">Perangkat Desa</a>
+                        <a class="nav-link {{ Request::is('perangkat_desa') ? 'active' : '' }}" href="/perangkat_desa">Perangkat Desa</a>
                     </li>
                     <li class="nav-item ps-3 pe-3">
-                        <a class="nav-link {{ Request::is('mata_pencaharian') ? 'active' : '' }} text-dark" href="/mata_pencaharian">Mata Pencaharian</a>
+                        <a class="nav-link {{ Request::is('mata_pencaharian') ? 'active' : '' }}" href="/mata_pencaharian">Mata Pencaharian</a>
                     </li>
                     <li class="nav-item ps-3 pe-3">
-                        <a class="nav-link text-dark" href="#">Page 4</a>
+                        <a class="nav-link" href="#">Page 4</a>
                     </li>
                     <li class="nav-item ps-3 pe-3">
-                        <a class="nav-link text-dark" href="#">Page 5</a>
+                        <a class="nav-link" href="#">Page 5</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
-
-    <style>
-        .navbar-nav .nav-link {
-            font-weight: bold;
-        }
-
-        .navbar-nav .nav-link:hover {
-            text-decoration: underline;
-        }
-    </style>

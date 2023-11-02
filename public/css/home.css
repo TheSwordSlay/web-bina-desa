@@ -18,3 +18,7 @@
 iframe {
     min-height: 85vh;
 }
+
+.text-title {
+    text-shadow: 2px 2px 5px black;
+}

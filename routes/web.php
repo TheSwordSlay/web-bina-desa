@@ -26,6 +26,10 @@ Route::get('/halaman-fiqri', function () {
     return view('halaman_fiqri');
 });
 
+Route::get('/homepage', function () {
+    return view('home');
+});
+
 Route::get('/matapencaharian', function () {
     return view('matapencaharian');
 });

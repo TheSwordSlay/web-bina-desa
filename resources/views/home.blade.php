@@ -22,8 +22,8 @@
     <section class="home">
         <div class="container-fluid d-flex justify-content-center align-items-center ">
             <div class="text-center">
-                <h1 class="text-light">Selamat Datang di Desa ...</h1>
-                <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, eius? Obcaecati mollitia eum illum corporis assumenda rerum dolorum autem quibusdam.</p>
+                <h1 class="text-light text-title">Selamat Datang di Desa ...</h1>
+                <p class="text-light text-title">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, eius? Obcaecati mollitia eum illum corporis assumenda rerum dolorum autem quibusdam.</p>
                 <a class="btn btn-primary" href="#" role="button">Selengkapnya</a>
             </div>
         </div>

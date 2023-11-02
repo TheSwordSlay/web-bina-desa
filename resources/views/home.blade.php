@@ -22,7 +22,7 @@
     <section class="home">
         <div class="container-fluid d-flex justify-content-center align-items-center ">
             <div class="text-center">
-                <h1 class="text-light">Selamat Datang di Desa ...</h1>
+                <h1 class="text-light">Selamat Datang di Desa Tanjung Laut</h1>
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, eius? Obcaecati mollitia eum illum corporis assumenda rerum dolorum autem quibusdam.</p>
                 <a class="btn btn-primary" href="#" role="button">Selengkapnya</a>
             </div>
@@ -37,7 +37,7 @@
                 <h1 class="pb-2">Peta Desa</h1>
             </div>
             <div>
-                <iframe class="img-fluid shadow-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254917.2531649013!2d104.4712605954665!3d-3.3298982037273133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3bc03f8e742a71%3A0x4f9816f962fcf98c!2sKec.%20Tj.%20Batu%2C%20Kabupaten%20Ogan%20Ilir%2C%20Sumatera%20Selatan!5e0!3m2!1sid!2sid!4v1698764187471!5m2!1sid!2sid" width="1000" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="img-fluid shadow-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31865.212379740562!2d104.63349028662726!3d-3.312679286371968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3bc0014382d4f9%3A0x9af087d7116ceb2a!2sTj.%20Laut%2C%20Kec.%20Tj.%20Batu%2C%20Kabupaten%20Ogan%20Ilir%2C%20Sumatera%20Selatan!5e0!3m2!1sid!2sid!4v1698940693646!5m2!1sid!2sid" width="1000" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </section>

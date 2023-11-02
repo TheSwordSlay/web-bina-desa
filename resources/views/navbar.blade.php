@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark shadow-lg bg-primary fixed-top">
         <div class="container">
             <a class="navbar-brand p-0 m-0 fs-3 fw-medium" href="#">
-                Tanjung Batu
+                Tanjung Laut
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

@@ -15,7 +15,7 @@
                         <a class="nav-link {{ Request::is('perangkat_desa') ? 'active' : '' }}" href="/perangkat_desa">Perangkat Desa</a>
                     </li>
                     <li class="nav-item ps-3 pe-3">
-                        <a class="nav-link" href="#">Page 3</a>
+                        <a class="nav-link {{ Request::is('mata_pencaharian') ? 'active' : '' }}" href="/mata_pencaharian">Mata Pencaharian</a>
                     </li>
                     <li class="nav-item ps-3 pe-3">
                         <a class="nav-link" href="#">Page 4</a>

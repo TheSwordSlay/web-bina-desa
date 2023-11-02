@@ -15,13 +15,13 @@
                 <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                        <img src="img/tenun.jpg" class="d-block w-100" alt="...">
+                        <img src="img/tenun.jpg" class="d-block w-100" alt="tenun">
                         </div>
                         <div class="carousel-item">
-                        <img src="img/tenun.jpg" class="d-block w-100" alt="...">
+                        <img src="img/pandaibesi.jpg" class="d-block w-100" alt="pandai besi">
                         </div>
                         <div class="carousel-item">
-                        <img src="img/tenun.jpg" class="d-block w-100" alt="...">
+                        <img src="img/beternak.jpg" class="d-block w-100" alt="beternak">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
+                                <h5 class="card-title">Tenun</h5>
                                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
                             </div>
@@ -52,11 +52,26 @@
                 <div class="card-2">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="img/tenun.jpg" class="img-fluid rounded-start" alt="...">
+                            <img src="img/pandaibesi.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
+                                <h5 class="card-title">Pandai Besi</h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-3">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="img/beternak.jpg" class="img-fluid rounded-start" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Beternak</h5>
                                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
                             </div>

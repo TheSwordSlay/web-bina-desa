@@ -18,8 +18,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/matapencaharian', function () {
-    return view('matapencaharian');
+Route::get('/home', function () {
+    return view('home');
+});
+
+Route::get('/mata_pencaharian', function () {
+    return view('mataPencaharian');
 });
 
 Route::get('/perangkat_desa', function () {

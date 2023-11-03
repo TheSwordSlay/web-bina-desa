@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark shadow-lg bg-primary fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light shadow-lg fixed-top" style="background-color: #9EDDFF;">
         <div class="container">
             <a class="navbar-brand p-0 m-0 fs-3 fw-medium" href="#">
                 Tanjung Laut

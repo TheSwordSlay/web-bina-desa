@@ -24,7 +24,7 @@
             <div class="text-center">
                 <h1 class="text-light">Selamat Datang di Desa Tanjung Laut</h1>
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, eius? Obcaecati mollitia eum illum corporis assumenda rerum dolorum autem quibusdam.</p>
-                <a class="btn btn-primary" href="#" role="button">Selengkapnya</a>
+                <a class="btn" style="background-color: #9EDDFF;" href="#" role="button">Selengkapnya</a>
             </div>
         </div>
     </section>
@@ -44,7 +44,7 @@
     <!-- maps desa end  -->
 
     <!-- penjelasan desa  -->
-    <section class="penjelasan  bg-primary-subtle">
+    <section class="penjelasan" style="background-color: #9EDDFF;">
         <div class="container-fluid">
             <div class="row text-center justify-content-center align-items-center">
                 <div class="col-md-6">

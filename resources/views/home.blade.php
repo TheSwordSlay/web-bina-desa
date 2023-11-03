@@ -47,10 +47,13 @@
     <section class="penjelasan  bg-primary-subtle">
         <div class="container-fluid">
             <div class="row text-center justify-content-center align-items-center">
-                <div class="col-md-6">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquid enim, culpa quod quibusdam ipsum iure autem, doloribus debitis quidem quasi odit tenetur deserunt odio sed. Quia quis error unde cumque officiis temporibus illo molestiae recusandae impedit laudantium vero deleniti eum, doloremque dignissimos voluptates esse, cum hic modi nam quidem. A atque reprehenderit maxime magnam distinctio cumque minus necessitatibus autem magni nam, suscipit ratione perspiciatis praesentium. Dicta, voluptates accusantium optio error dolor voluptatem minima officiis totam suscipit officia aut eligendi repellat enim debitis praesentium iure corrupti nostrum quas labore fugiat cumque quidem veritatis. Culpa exercitationem delectus reiciendis. Dolore similique officiis pariatur temporibus minima? Qui quos quaerat fuga minima animi, labore quam ab distinctio, soluta eos ipsam! Quis recusandae, accusantium at nesciunt amet, laborum et iusto soluta in laudantium ex praesentium cum? Consectetur, inventore accusantium autem asperiores consequuntur corrupti qui laboriosam nostrum cum ratione, magni harum nihil eligendi soluta tempore cupiditate in ducimus distinctio debitis. Voluptates dicta modi nemo, facilis tempore blanditiis ex ipsum cumque sapiente illo, ipsa, fuga quos enim repudiandae eos eligendi dolorem impedit consequatur asperiores voluptatem obcaecati. Fugiat distinctio sed, veritatis mollitia ducimus natus laborum quibusdam nisi inventore error quidem tempore laudantium, pariatur neque aperiam cumque ipsa repellendus.
+                <div class="col-md-6 text-start">
+                    <div class="fs-1 fw-bold text-center">Tentang Desa</div>
+                    <div class="my-3 mx-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis asperiores itaque minus praesentium accusamus aut, assumenda quis? Laborum, quod expedita? Provident deserunt obcaecati adipisci placeat earum aperiam itaque? Sapiente beatae tenetur repudiandae id voluptatem sed dolorem vitae. Voluptates vitae in voluptatem atque iure eaque? Aspernatur voluptate dolor placeat velit ipsum similique eos quia excepturi vel? Modi, non soluta perferendis nisi aspernatur pariatur, amet quia excepturi a natus voluptatibus ducimus beatae assumenda illum cumque delectus, odit autem itaque suscipit tenetur odio rem neque velit voluptates. Laboriosam dolores error omnis fugiat quis quasi officiis repellat consectetur deserunt labore, animi voluptate distinctio sit, ullam ratione cum assumenda sed non rem! Alias molestias debitis odio ipsa sint fuga obcaecati incidunt facere, sunt culpa commodi beatae quasi et ut autem enim non quo fugiat laborum minima eum perspiciatis libero! Magnam culpa, soluta dolore aliquam nobis, dicta minus blanditiis quas, quos alias officiis provident quaerat numquam.</div>
                 </div>
-                <div class="paralax col-md-6 mt-5 mb-5 rounded-5"></div>
+                <div class="col-md-6 mt-5 mb-5 rounded-5">
+                    <img src="img/bg2.jpg" class="rounded-5 px-3 img-fluid" alt="">
+                </div>
             </div>
         </div>
     </section>

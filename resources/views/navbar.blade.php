@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark shadow-lg bg-primary fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark shadow-lg bg-primary">
         <div class="container">
             <a class="navbar-brand p-0 m-0 fs-3 fw-medium" href="#">
                 Tanjung Laut
@@ -17,13 +17,6 @@
                     <li class="nav-item ps-3 pe-3">
                         <a class="nav-link {{ Request::is('mata_pencaharian') ? 'active' : '' }}" href="/mata_pencaharian">Mata Pencaharian</a>
                     </li>
-                    <li class="nav-item ps-3 pe-3">
-                        <a class="nav-link" href="#">Page 4</a>
-                    </li>
-                    <li class="nav-item ps-3 pe-3">
-                        <a class="nav-link" href="#">Page 5</a>
-                    </li>
-                </ul>
             </div>
         </div>
     </nav>

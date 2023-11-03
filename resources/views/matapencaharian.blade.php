@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-sm-8">
                 <div class="mata-pencaharian">
-                    <h1>Mata Pencaharian</h1>
+                    <h1 class="mb-5">Mata Pencaharian</h1>
                     <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
                         <div class="carousel-inner">
                             <div class="carousel-item active">

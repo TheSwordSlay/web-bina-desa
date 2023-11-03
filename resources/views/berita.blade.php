@@ -3,7 +3,7 @@
                 <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="img/berita.jpeg" class="img-fluid rounded-start" alt="foto">
+                            <img src="img/beternak.jpg" class="img-fluid rounded-start" style="height: 100%;" alt="foto">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -19,7 +19,7 @@
                 <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="img/berita.jpeg" class="img-fluid rounded-start" alt="foto">
+                            <img src="img/tenun.jpg" class="img-fluid rounded-start" style="height: 100%;" alt="foto">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">

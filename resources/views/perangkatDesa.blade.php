@@ -26,6 +26,7 @@
                 <div class="carousel-caption">
                     <h5>SARKOWI, S.Sos</h5>
                     <p>NIK : 1610020203650000</p>
+                    <p>Kepala Desa</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -33,6 +34,7 @@
                 <div class="carousel-caption">
                     <h5>Andi Syaryono, S.Pd</h5>
                     <p>NIK : 1610022505750000</p>
+                    <p>KAUR Keuangan</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -40,6 +42,7 @@
                 <div class="carousel-caption">
                     <h5>Edi Susanto</h5>
                     <p>NIK : 1610022512820001</p>
+                    <p>KAUR TU/Umum</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -47,6 +50,7 @@
                 <div class="carousel-caption">
                     <h5>Zulkardi</h5>
                     <p>NIK : 1610020704083385</p>
+                    <p>KAUR Perencanaan</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -54,6 +58,7 @@
                 <div class="carousel-caption">
                     <h5>Dorik Farizal</h5>
                     <p>NIK : 1610020902220001</p>
+                    <P>KASI Pelayanan</P>
                 </div>
             </div>
             <div class="carousel-item">
@@ -61,6 +66,7 @@
                 <div class="carousel-caption">
                     <h5>Ahmad Kodri</h5>
                     <p>NIK : 1610022811790002</p>
+                    <p>KASI Kesejahteraan</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -68,6 +74,7 @@
                 <div class="carousel-caption">
                     <h5>Misroni</h5>
                     <p>NIK : 1610021306710001</p>
+                    <p>KADUS I</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -75,6 +82,7 @@
                 <div class="carousel-caption">
                     <h5>Syamsuri</h5>
                     <p>NIK : 1610022111740001</p>
+                    <p>KADUS II</p>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
